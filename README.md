@@ -2,7 +2,8 @@
 In the fascinating world of Arduino and microcontrollers, keeping time is key. You might need to build a digital clock, a timer, or something more complex like an automated plant watering system. That's where the DS1302 module steps in. It's a handy little device that can help you keep time accurately in your Arduino projects. In this article, we'll take a closer look at the DS1302 module, understand how it works, and explore its applications.  
 
 ├ src  
-│  └ ds1302  
+│  ├ automatic  
+│  └ manual  
 ├ lib  
 └ schema  
 
